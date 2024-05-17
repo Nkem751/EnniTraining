@@ -7,4 +7,5 @@ person1=enni
 echo $person1
 echo $person1 is beautiful
 echo $person1 is funny
-git practice
+git practice is fun
+
